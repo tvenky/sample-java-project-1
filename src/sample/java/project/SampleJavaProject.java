@@ -31,7 +31,7 @@ public class SampleJavaProject implements Runnable {
     private boolean loop = false;
 
     /** Command line parameter for --help. */
-    @Parameter(names = { "-h", "--help" }, description = "print help message")
+    @Parameter(names = { "-h", "--help" }, description = "this is venky")
     private boolean help = false;
 
     /**
